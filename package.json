@@ -1,0 +1,23 @@
+{
+  "name": "ApiExpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phdev182/ApiExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phdev182/ApiExpress/issues"
+  },
+  "homepage": "https://github.com/phdev182/ApiExpress#readme",
+    "dependencies": {
+    "express": "^4.17.1"
+  }
+}
